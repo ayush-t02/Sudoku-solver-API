@@ -1,0 +1,24 @@
+        * {
+            box-sizing: border-box;
+        }
+        
+        #puzzle {
+            width: 450px;
+            height: 450px;
+            margin: 5% auto 0 auto;
+        }
+        
+        #puzzle input {
+            width: 50px;
+            height: 50px;
+            border-spacing: 0;
+            border: 1px black solid;
+        }
+        
+        .btn-div {
+            width: 100%;
+        }
+        
+        #solve_btn {
+            margin: 1% 40% 0 49%;
+        }
